@@ -8,12 +8,13 @@
 I'm FullStack Developer :computer:
 
  :purple_heart: &nbsp; I love technology.
- :computer: &nbsp; I'm a database specialist.
- <br/> :purple_heart: &nbsp; I do Front-End development in reactJS
+ <br/> :shipit: &nbsp; I'm a database specialist.
+ <br/> ::dart: &nbsp; I do Front-End development in reactJS
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, PHP & Typescript
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-DiogoAmaral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-amaral-82bb7798/)](https://www.linkedin.com/in/diogo-amaral-82bb7798/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-diogo15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo15@gmail.com)](mailto:diogo15@gmail.com)
 
 :octocat: &nbsp; About my github:
-https://github-readme-stats.vercel.app/api/top-langs/?username=diogo4&theme=cobalt
+<br/>
+<br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo4&theme=cobalt"> <img src="https://github-readme-stats.vercel.app/api?username=diogo4&show_icons=true&hide=contribs,issues&theme=cobalt">
