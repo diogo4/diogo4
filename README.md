@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width="auto" src="https://1.bp.blogspot.com/-YJU8a91kPDM/XTFp81-6DaI/AAAAAAAAIkw/ypPfuT_ZZJM518lLiUHJcakw99sLxN8SwCKgBGAs/w914-h514-p-k-no-nu/millennium-falcon-star-wars-minimalist-digital-art-uhdpaper.com-4K-27-wp.thumbnail.jpg">
 
-<!--
-**diogo4/diogo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Diogo Amaral
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+
+I'm FullStack Developer :computer:
+
+ :purple_heart: &nbsp; I love technology.
+ <br/> :purple_heart: &nbsp; I do Front-End development in reactJS
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js, PHP & Typescript
+ <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-DiogoAmaral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-amaral-82bb7798/)](https://www.linkedin.com/in/diogo-amaral-82bb7798/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-diogo15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo15@gmail.com)](mailto:diogo15@gmail.com)
